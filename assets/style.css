@@ -1,0 +1,122 @@
+*{
+    font-family: 'Poppins', sans-serif;
+    color: #848484;
+    
+}
+
+body{
+    background-color: rgba(0, 0, 0, 0.95);
+    transition: all .3s ease-in-out;
+}
+
+.dark{
+    background-color: rgb(212, 212, 212);
+    color: #848484;
+}
+
+nav{
+    margin-top: 20px;
+    
+}
+
+.foto{
+    width: 70px;
+}
+
+.nav-link{
+    color: #848484;
+    font-weight: 800;
+}
+
+.nav-link:hover{
+    color: #848484;
+}
+
+.hero{
+    margin-top: 160px;
+}
+
+.vertical-line{
+    margin-left: 100px;
+    width: 3px;
+    height: 350px;
+    background-color: #848484;
+}
+
+.stroke-text{
+    color: rgba(0, 0, 0, 0);
+    -webkit-text-stroke: 1px #848484;
+}
+
+.text{
+    margin-left: 80px;
+    margin-top: 70px;
+}
+
+.textt{
+    font-size: 44px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+}
+
+.textdua{
+    margin-top: -20px;
+    margin-bottom: -20px;
+}
+
+#typed{
+    margin-top: 100px;
+}
+
+.icons{
+    margin-left: 80px;
+}
+
+.icon{
+    margin: 0 5px;
+}
+
+@media screen and (max-width: 576px){
+    nav{
+        margin-top: 10px;
+    }
+
+    .hero{
+        height: 100vh;
+        margin-top: 80px;
+    }
+    
+    .vertical-line{
+        margin-left: 10px;
+        width: 3px;
+        height: 350px;
+        background-color: #848484;
+    }
+
+    .textt{
+        font-size: 28px;
+        font-style: normal;
+        font-weight: 800;
+        line-height: normal;
+    }
+
+    .text{
+        margin-left: 20px;
+        margin-top: 100px;
+    }
+
+    .textdua{
+        margin-top: -10px;
+        margin-bottom: -10px;
+    }
+
+    .icons{
+        margin-left: 20px;
+    }
+
+
+}
+
+
+
