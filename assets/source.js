@@ -8,7 +8,7 @@ function white(){
 
 // typing
 var typing = new Typed ("#typed" ,{
-    strings : ["Junior Frontend Developer", "Junior Backend Developer", "UI / UX Designer", "Student"],
+    strings : ["Junior Frontend Developer", "UI / UX Designer", "Student"],
     typeSpeed : 70,
     backSpees : 50,
     loop : true

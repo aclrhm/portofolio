@@ -77,6 +77,45 @@ nav{
     margin: 0 5px;
 }
 
+.about-section{
+    margin: 120px 100px;
+}
+
+.about{
+    font-size: 72px;
+    font-weight: 800;
+}
+
+.get{
+    font-weight: 800;
+    font-size: 32px;
+}
+
+.perkenalan{
+    font-weight: 500;
+    font-size: 20px;
+    color: #d9d9d9;
+
+}
+
+.cv{
+    border: 2px solid #848484;
+    background-color: rgba(0, 0, 0, 0.095);
+    padding: 10px;
+    border-radius: 30px;
+    color: #d9d9d9;
+    font-weight: 600;
+}
+
+.skilll{
+    background-color: #d9d9d9;
+    border-radius: 10px;
+    width: 100px;
+    height: 40px;
+    text-align: center;
+}
+
+
 @media screen and (max-width: 576px){
     nav{
         margin-top: 10px;
